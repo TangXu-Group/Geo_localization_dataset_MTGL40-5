@@ -20,7 +20,7 @@ Datasets into following structure,
 ├─Location index
     ├─query
     	├─0/1/2/3/4
-    		├─xxx.jpg
+            ├─xxx.jpg
     ├─support
     	├─0/1/2/3/4
             ├─xxx.jpg
