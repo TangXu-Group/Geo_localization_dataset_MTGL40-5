@@ -23,7 +23,7 @@ Datasets into following structure,
     		├─xxx.jpg
     ├─support
     	├─0/1/2/3/4
-   	 		├─xxx.jpg
+            ├─xxx.jpg
     ├─label.txt
     	
 ```
