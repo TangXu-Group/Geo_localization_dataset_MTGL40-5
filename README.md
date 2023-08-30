@@ -8,7 +8,7 @@ This repository provides the dataset proposed in our paper "**MTGL40-5: A Multi-
 
 In this paper, a novel dataset for cross-time geo-localization is proposed, named MTGL40-5. This dataset comprises 40 diverse geographic locations spanning five different years. For each location, the large-scale original and key images are captured, which contain the complete and key content of the corresponding location. Subsequently, the key/original images are split into query/database images for conducting geo-localization. By analyzing the content difference of the same landmark in different years, we aim to address the cross-time challenge and enhance the practicality of geo-localization.
 
-![GA](C:\Users\17590\Desktop\Remote sensing geo-location\GA.jpg)
+![GA](GA.jpg)
 
 ## Datasets
 
