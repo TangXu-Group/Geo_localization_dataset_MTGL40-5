@@ -12,7 +12,7 @@ In this paper, a novel dataset for cross-time geo-localization is proposed, name
 
 ## Datasets
 
-Download the MTGL40-5 dataset in [BaiduPan](https://pan.baidu.com/s/173w53DHAmHmXTZ6cppdpZg), Extraction code is MTGL . 
+Download the MTGL40-5 dataset in [BaiduPan](https://pan.baidu.com/s/173w53DHAmHmXTZ6cppdpZg), Extraction code is MTGL. 
 
 Datasets into following structure,
 
